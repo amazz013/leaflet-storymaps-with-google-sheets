@@ -55,6 +55,8 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+}
+.title {
   font-family: "Arial", serif;
   color: #72A276;
 }

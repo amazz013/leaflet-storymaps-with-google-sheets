@@ -185,8 +185,16 @@ h2 {
 .author
 {
   font-family: "Arial", serif;
+  font-size: 16px;
+  color: black;
+  position: sticky;
+  bottom: 0;
+}
+.source
+{
+  font-family: "Arial", serif;
   font-size: 12px;
   color: black;
   position: sticky;
   bottom: 0;
-.source
+}

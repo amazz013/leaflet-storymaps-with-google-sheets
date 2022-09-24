@@ -47,7 +47,7 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: white;
+  background-color: #86CD82;
   width: 100vw;
   z-index: 100;
   margin: 0;
@@ -55,6 +55,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  font-family: "Arial", serif;
 }
 
 .chapter-container {
